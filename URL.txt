@@ -1,0 +1,8 @@
+オレオレシーン遷移管理機構
+https://qiita.com/toRisouP/items/1713d2addf6f5dc9f9b8
+
+uGUIのトランジション
+http://tsubakit1.hateblo.jp/entry/2015/11/04/015355
+
+UGUIでアニメーションを使ってNoCodingで画面遷移を作る
+https://qiita.com/ShiroKuro/items/c028d29229fc135bac01
